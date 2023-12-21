@@ -1,5 +1,11 @@
-Esta es la historia de Leyder Leal
+Esta es la historia de Leyder Leal.
 
-Leyder Leal tiene 18 años y nacio en Colombia
+Leyder Leal tiene 18 años y nacio en Colombia.
+
+Hola soy yo de otra linea temporal para 
+
+utilizar git con mi yo de la otra linea 
+
+en un git multidimencional.
 
 Mañana nos enfocaremos en su vida laboral.
